@@ -41,7 +41,7 @@ Pastikan form Anda memiliki field-field berikut (judul field bisa bervariasi, sc
 
 ### 2. Salin Kode
 1. Hapus semua kode yang ada di editor
-2. Salin seluruh kode dari file `auto_copy.gs`
+2. Salin seluruh kode dari file `script.gs`
 3. Paste ke editor Apps Script
 4. Klik ikon **Simpan** (disket)
 
