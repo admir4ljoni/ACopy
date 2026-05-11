@@ -50,9 +50,8 @@ Pastikan form Anda memiliki field-field berikut (judul field bisa bervariasi, sc
 2. Klik tombol **▶ Run**
 3. **PENTING**: Akan muncul popup otorisasi, klik **"Review permissions"**
 4. Pilih akun Google Anda
-5. Klik **"Advanced"** → **"Go to [nama project] (unsafe)"**
+5. Centang semua opsi
 6. Klik **"Allow"** untuk memberikan izin
-7. Selesai! Script sudah aktif
 
 ## Konfigurasi
 
