@@ -8,7 +8,7 @@ Skrip Google Apps Script untuk mengotomatisasi penyalinan file/folder dari Googl
 - **Kategorisasi**: Mengelompokkan submission berdasarkan subtema
 - **Struktur Folder Terorganisir**: Membuat struktur folder yang rapi dengan format:
   ```
-  📁 WorkArt 2026/
+  📁 SAMPLE/
   ├── 📁 Subtema 1/
   │   ├── 📁 KODE - Nama - email/
   │   │   ├── 📁 1st Submission/
