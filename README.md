@@ -136,9 +136,10 @@ Script dapat membaca berbagai format link Google Drive:
 
 ### Mematikan Script
 1. Buka Apps Script editor
-2. Dari menu, pilih fungsi `setupTrigger`
-3. Klik **▶ Run** untuk menghapus trigger lama
-4. Hapus semua kode atau comment out bagian utama
+2. Di menu sebelah kiri, pilih **Triggers**
+3. Hapus trigger dengan nama Function `onFormSubmit` dengan klik menu `⋮` (tiga titik) di pojok kanan
+4. Pilih **Delete trigger**
+5. Pilih **DELETE FOREVER** di konfirmasi
 
 ## Bantuan
 
